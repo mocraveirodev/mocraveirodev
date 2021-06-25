@@ -1,5 +1,5 @@
 <h1 align="center">Olar 👋, Eu sou a Monica Craveiro de Menezes</h1>
-<h3 align="center">Carioca, Bacharel em Sistemas de Informação e Matemática, Desenvolvedora Web FullStack, Membro do Tudo Sobre IoT, a maior comunidade de IoT do Brasil, ex-aluna do [des]programe, {reprograma} e DigitalHouse>, Professora de Programação, além de Participante e Palestrante em diversas comunidades de TI.</h3>
+<h3 align="center">Carioca, Bacharel em Sistemas de Informação e Matemática, Desenvolvedora Web FullStack, ex-aluna do [des]programe, {reprograma} e DigitalHouse>, Professora de Programação, além de Participante e Palestrante em diversas comunidades de TI.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mocraveirodev" alt="mocraveirodev" /> </p>
 
