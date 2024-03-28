@@ -20,13 +20,13 @@
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=mocraveirodev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 <br><br>
-<p align="center">
-<a href="https://twitter.com/mocraveirodev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mocraveirodev" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/mocraveirodev/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="/in/mocraveirodev/" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/174546" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="174546" height="30" width="30" /></a>
-<a href="https://fb.com/mocraveirodev/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="mocraveirodev/" height="30" width="30" /></a>
-<a href="https://instagram.com/mocraveirodev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mocraveirodev" height="30" width="30" /></a>
-</p>
+
+<div>
+  <a href="https://instagram.com/mocraveirodev" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/mocraveirodev" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href="https://twitter.com/mocraveirodev" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href="https://www.facebook.com/mocraveirodev/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+</div>
 
 <br><br>
 
