@@ -29,7 +29,7 @@
 </p>
 <br><br>
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/mocraveirodev/mocraveirodev/blob/output/github-contribution-grid-snake.svg)
 
 <br><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mocraveirodev" alt="mocraveirodev" /> </p>
