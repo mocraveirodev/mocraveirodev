@@ -27,10 +27,8 @@
 <a href="https://fb.com/mocraveirodev/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="mocraveirodev/" height="30" width="30" /></a>
 <a href="https://instagram.com/mocraveirodev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mocraveirodev" height="30" width="30" /></a>
 </p>
-<br><br>
-
-![Snake animation](https://github.com/mocraveirodev/mocraveirodev/blob/output/github-contribution-grid-snake.svg)
 
 <br><br>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mocraveirodev" alt="mocraveirodev" /> </p>
 
