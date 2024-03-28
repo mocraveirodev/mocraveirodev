@@ -15,7 +15,7 @@
   <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
 </p>
 
-<div>
+<div align="center">
   <a href="https://github.com/mocraveirodev">
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mocraveirodev&layout=compact&langs_count=7&theme=dracula"/>
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=mocraveirodev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
