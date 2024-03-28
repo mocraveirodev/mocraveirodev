@@ -20,6 +20,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mocraveirodev&show_icons=true" alt="mocraveirodev" /></p>
 
 <p align="center">
+<a href="https://instagram.com/mocraveirodev" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
 <a href="https://twitter.com/mocraveirodev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mocraveirodev" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/mocraveirodev/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="/in/mocraveirodev/" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/174546" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="174546" height="30" width="30" /></a>
