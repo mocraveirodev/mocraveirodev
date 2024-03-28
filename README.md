@@ -15,9 +15,11 @@
   <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mocraveirodev&layout=compact&hide=html" alt="mocraveirodev" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mocraveirodev&show_icons=true" alt="mocraveirodev" /></p>
+<div>
+  <a href="https://github.com/mocraveirodev">
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mocraveirodev&layout=compact&langs_count=7&theme=dracula"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=mocraveirodev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 <p align="center">
 <a href="https://twitter.com/mocraveirodev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mocraveirodev" height="30" width="30" /></a>
