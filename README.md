@@ -1,5 +1,5 @@
 <h1 align="center">Olar 👋, Eu sou a Monica Craveiro de Menezes</h1>
-<br><br>
+
 <h3 align="center">Carioca, Bacharel em Sistemas de Informação e Matemática, Desenvolvedora Back-end, ex-patinadora artística, ex-aluna do [des]programe, {reprograma} e DigitalHouse, Professora de Programação, Palestrante, Apresentadora/Mestre de Cerimônias e Participante de Diversos Eventos na área de Tecnologia, Coordenadora e Voluntária em Diversas Comunidades de TI, Embaixadora da Programaria, Host do Canal do da NodeBR do YouTube e Criadora de Conteúdo para as Redes Sociais.</h3>
 <br><br>
 <p align="center">
